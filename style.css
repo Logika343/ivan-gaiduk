@@ -1,0 +1,20 @@
+body{
+    background-color: darkorange;
+    color: #f00505;
+}
+table, tr, td{
+     size: 2px;
+     border: 2px solid brown;
+   
+}
+
+header a{
+    background-color: yellow;
+    color: coral;
+    text-decoration: none;
+    font-size: 16px;
+    padding-right: 60px;
+}
+header img{
+    height: 50px;
+}
